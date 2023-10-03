@@ -1,0 +1,117 @@
+body{
+    background: rgb(50,31,68);
+    background: linear-gradient(90deg, rgba(50,31,68,1) 0%, rgba(51,72,119,1) 100%, rgba(241,241,241,1) 100%, rgba(241,241,241,1) 100%);
+    color: white;
+}
+
+.section1 {
+    margin-top: 60px;
+  }
+  
+  .box {
+    /* background-color: #ccc; */
+    padding: 20px;
+    margin-bottom: 10px;
+    /* border: 1px solid red; */
+  }
+  .box img{
+    /* border: 1px solid green; */
+    margin: auto;
+    width: 100%;
+  }
+  .heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    font-size:89px;
+  }
+  .subheading{
+    color: white;
+  }
+  .section3{
+    margin-top: 30px;
+  }
+  .services{
+    margin-top: 50px;
+  }
+  .s-card{
+    /* border: 1px solid green; */
+    padding: 45px;
+    background-color: #F2F2F2;
+    margin-top: 7px;
+    
+  }
+  .s-card h2{
+    color: #D73CBE;
+    
+  }
+  .s-btn{
+    background-color: #2C1E4A;
+    color: white;
+  }
+  .s-btn:hover{
+    color: black;
+  }
+  .b-btn{
+    background-color: #D73CBE;
+    color: white;
+  }
+  .big-card{
+    border: 1px solid white;
+    padding: 40px;
+    margin-top: 70px;
+  }
+  .section4{
+    margin-top: 90px;
+  }
+  .section5{
+    margin-top: 90px;
+  }
+  .section6{
+    margin-top: 50px;
+  }
+  .p-img{
+    height: 40vh;
+  }
+  .p-img p{
+    font-size: 13px;
+    padding: 5px;
+  }
+  .section7{
+    margin-top: 90px;
+  }
+  .w-card{
+    padding: 15px;
+    border: 1px solid white;
+    margin-top: 10px;
+  }
+  .section8{
+    margin: auto;
+    margin-top: 90px;
+    width: 50%;
+    /* border: 1px solid red; */
+    
+  }
+  .contact{
+    border: 1px solid white;
+    padding: 10px;
+    width: 50%;
+
+  }
+  /* Media query for mobile devices */
+  @media only screen and (max-width: 768px) {
+    .section1{
+      margin-top: 20px;
+    }
+    .heading {
+      font-size: 65px;
+    }
+  }
+  
+ 
+  
+  
+  
+  
+  
+  
+  
